@@ -1,0 +1,57 @@
+body {
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+header {
+    font-size: large;
+}
+  
+.nav-link {
+    color: black;
+  }
+
+.nav {
+    --bs-nav-link-hover-color: #675F5D;
+  }
+
+.hero {
+    background-color: #F5F3F1;
+}
+
+.card {
+    --bs-card-border-radius: none;
+    --bs-card-inner-border-radius:none;
+}
+
+.text-body-secondary {
+    --bs-text-opacity: 1;
+    color: black !important;
+}
+
+.btn {
+    --bs-btn-border-radius: none;
+    color: #675F5D;
+    --bs-btn-border-color: #938A88;
+    --bs-btn-hover-bg: #EDE8E2;
+    --bs-btn-hover-color: #C0B7AE;
+}
+.footer-first {
+    background-color: #F5F3F1;
+}
+
+#beige {
+    background-color: #F5F3F1;
+}
+
+#background-image {
+    background-image: url("images/background_hero_light.jpg");
+    background-size:100% 100%;
+}
+
+#underline{
+    text-decoration: underline;
+}
+
